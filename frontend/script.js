@@ -1,6 +1,6 @@
 // Produção (site HTTPS): "wss://SEU_BACKEND/?from=site"
 // Dev local:             "ws://localhost:8080/?from=site"
-const ENDERECO_WS = "wss://backendapp-tcc-46u9.onrender.com/?from=site"
+const ENDERECO_WS = "ws://172.20.10.7:8080/?from=site"
 
 const statusConexao = document.getElementById("status")
 const valorTemperatura = document.getElementById("temp")
