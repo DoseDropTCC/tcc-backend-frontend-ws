@@ -9,7 +9,7 @@ const char* NOME_WIFI   = "seu_wifi";
 const char* SENHA_WIFI  = "sua senha";
 
 // ⚠️ Somente o HOST, sem "http://"
-const char* SERVIDOR_WS = "192.168.1.11";   // "meuservidor.com" ou IP
+const char* SERVIDOR_WS = "dosedropbackend.vercel.app";   // "meuservidor.com" ou IP
 const uint16_t PORTA_WS = 8080;
 const char* CAMINHO_WS  = "/?from=esp";
 
