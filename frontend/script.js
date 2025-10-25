@@ -1,4 +1,4 @@
-const ENDERECO_WS = "wss://localhost:8080/?from=site"
+const ENDERECO_WS = "wss://unsickened-azucena-unpunctilious.ngrok-free.dev/?from=site"
 
 let conexaoWs
 
